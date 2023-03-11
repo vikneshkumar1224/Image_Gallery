@@ -3,11 +3,16 @@
   To understand the basiic commands in internet
 
 ## COMMANDS
-  ``ipconfig
-  ipconfig/all
-  nslookup
-  tracert
-  ``
+### ipconfig
+    Finds the ip address
+    
+### ipconfig/all
+    Finds the physical address
+    
+### nslookup
+
+### tracert
+  
 ## OUTPUT
 ![01](https://user-images.githubusercontent.com/120453887/224472458-78fd041b-a0c6-49d8-bfd6-732cc4210a7a.png)
 
