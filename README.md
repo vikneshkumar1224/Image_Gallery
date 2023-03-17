@@ -1,4 +1,4 @@
-# Ex01 BASIC NETWORKING COMMANDS
+# Ex.01 BASIC NETWORKING COMMANDS
 ## AIM
   To understand the working of basic commands in networking.
 
