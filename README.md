@@ -25,7 +25,6 @@
     Displays information about tcp and udp connections and ports.
 
 ## OUTPUT
-![Screenshot (3)](https://user-images.githubusercontent.com/120453887/225884217-f2a2885b-9bb9-4e29-ad39-e6763cae531d.png)
 
 
 ## RESULT
