@@ -1,20 +1,31 @@
-# Ex01 BASIC COMMANDS
+# Ex01 BASIC NETWORKING COMMANDS
 ## AIM
-  To understand the basiic commands in internet
+  To understand the working of basic commands in networking.
 
 ## COMMANDS
 ### ipconfig
-    Finds the ip address
+    Finds the IP address and default gateway.
     
 ### ipconfig/all
-    Finds the physical address
+    Displays more information about the network setup on your systems including the MAC address.
     
 ### nslookup
-
+    Query name servers for information about various hosts and domains, or to print a list of the hosts in a domain.
+    
 ### tracert
-  
+    Reports the IP address of the near-side interface of the routers.
+
+### ping
+    Tests the reachability of a device on a network. 
+
+### hostname
+    Displays the hostname of your machine.
+
+### netstat
+    Displays information about tcp and udp connections and ports.
+
 ## OUTPUT
-![01](https://user-images.githubusercontent.com/120453887/224472458-78fd041b-a0c6-49d8-bfd6-732cc4210a7a.png)
+
 
 ## RESULT
-  The basic commands are executed successfully
+  The basic commands in networking are executed successfully.
