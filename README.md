@@ -8,6 +8,12 @@
     
 ### ipconfig/all
     Displays more information about the network setup on your systems including the MAC address.
+
+### getmac
+    Displays physical or MAC address.
+
+### hostname
+    Displays the hostname of your machine.
     
 ### nslookup
     Query name servers for information about various hosts and domains, or to print a list of the hosts in a domain.
@@ -17,9 +23,6 @@
 
 ### ping
     Tests the reachability of a device on a network. 
-
-### hostname
-    Displays the hostname of your machine.
 
 ### netstat
     Displays information about tcp and udp connections and ports.
