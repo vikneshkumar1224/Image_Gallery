@@ -29,6 +29,7 @@
 
 ## OUTPUT
 
-
+![alt text](image.png)
+![alt text](image-1.png)
 ## RESULT
   The basic commands in networking are executed successfully.
