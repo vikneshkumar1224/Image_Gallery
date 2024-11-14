@@ -1,35 +1,39 @@
-# Ex.01 BASIC NETWORKING COMMANDS
+# Ex.08 Design of Interactive Image Gallery
+
 ## AIM
-  To understand the working of basic commands in networking.
+  To design a web application for an inteactive image gallery with minimum five images.
 
-## COMMANDS
-### ipconfig
-    Finds the IP address and default gateway.
-    
-### ipconfig/all
-    Displays more information about the network setup on your systems including the MAC address.
+## DESIGN STEPS
 
-### getmac
-    Displays physical or MAC address.
+## Step 1:
 
-### hostname
-    Displays the hostname of your machine.
-    
-### nslookup
-    Query name servers for information about various hosts and domains, or to print a list of the hosts in a domain.
-    
-### tracert
-    Reports the IP address of the near-side interface of the routers.
+Clone the github repository and create Django admin interface
 
-### ping
-    Tests the reachability of a device on a network. 
+## Step 2:
 
-### netstat
-    Displays information about tcp and udp connections and ports.
+Change settings.py file to allow request from all hosts.
+
+## Step 3:
+
+Use CSS for positioning and styling.
+
+## Step 4:
+
+Write JavaScript program for implementing interactivit
+
+## Step 5:
+
+Validate the HTML and CSS code
+
+## Step 6:
+
+Publish the website in the given URL.
+
+## PROGRAM
+
 
 ## OUTPUT
 
-![alt text](image.png)
-![alt text](image-1.png)
+
 ## RESULT
-  The basic commands in networking are executed successfully.
+  The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
